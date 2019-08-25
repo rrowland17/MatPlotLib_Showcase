@@ -1,0 +1,7 @@
+My Conclusions Based on the Final Pyber Analysis:
+
+1. Based on the bubble chart, there is a correlation between the type of city and the total number of rides and the average fare you are going to see for that type of city. From our pie charts, you can see that urban cities have the highest percentage share of fares, rides, and drivers. 
+
+2. From the bubble chart, if a city falls in the urban category, you will see are higher number of rides, but a lower average fare. The average fare for these urban cities tops out around $30. 
+
+3. If a city falls in the rural category, you would see a lower number of rides, but a higher average fare per ride. The highest fares we see come from the cities with the a lower number of total rides with the highest average fare close to $50. 
